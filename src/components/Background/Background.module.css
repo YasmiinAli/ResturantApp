@@ -1,0 +1,10 @@
+.contain {
+position: relative;
+text-align: center;
+}
+.textContainer {
+    position:absolute;
+    left: 50%;
+    bottom: 25%;
+    transform: translate(-50%, -25%);
+}

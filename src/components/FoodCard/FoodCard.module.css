@@ -1,0 +1,25 @@
+.order {
+    color: #fff !important;
+    background-color: rgb(168, 44, 72);
+
+    border: 2px solid rgb(168, 44, 72) ;
+    
+}
+.order:hover {
+    color: rgb(168, 44, 72) !important;
+    background-color: #fff;
+    border: 2px solid rgb(168, 44, 72) ;
+    transition: 0.2 ease-in-out;
+}
+
+.after {
+    color: rgb(168, 44, 72);
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.before {
+    color: #b9b9b9;
+    font-size: 25px;
+    text-decoration: line-through;
+}

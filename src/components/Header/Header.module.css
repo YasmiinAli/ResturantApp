@@ -1,0 +1,38 @@
+.contain {
+    /* position:fixed;
+     */
+  /* top: 100%;
+  transform: translate(0, -50%); */
+}
+.order {
+    color: #fff !important;
+    background-color: rgb(168, 44, 72);
+
+    border: 2px solid rgb(168, 44, 72) ;
+    
+}
+.order:hover {
+    color: rgb(168, 44, 72) !important;
+    background-color: #fff;
+    border: 2px solid rgb(168, 44, 72) ;
+    transition: 0.2 ease-in-out;
+}
+.more {
+        color: rgb(168, 44, 72) !important;
+    background-color: #fff;
+    box-shadow: 0.2px 0.2px #e2e2e2;
+    border: 2px solid rgb(248, 248, 248) ;
+
+
+}
+.more:hover {
+        color: rgb(168, 44, 72) !important;
+    background-color: transparent;
+    box-sizing: border-box;
+    border: 2px solid rgb(168, 44, 72) ;
+        transition: 0.2 ease-in-out;
+
+}
+.background {
+    max-width: 100%;
+}

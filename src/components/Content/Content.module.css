@@ -1,0 +1,12 @@
+.more {
+    color: #fff !important;
+    background-color: rgb(168, 44, 72);
+    border: 2px solid rgb(168, 44, 72) ;
+    
+}
+.more:hover {
+    color: rgb(168, 44, 72) !important;
+    background-color: #fff;
+    border: 2px solid rgb(168, 44, 72) ;
+    transition: 0.2 ease-in-out;
+}
